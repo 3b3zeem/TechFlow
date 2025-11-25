@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Habib Mall E-Commerce Platform",
+    "category": "Enterprise E-Commerce",
+    "shortDescription": "Complete digital platform integrating 50+ shops with real-time inventory, checkout, and analytics dashboard.",
+    "fullDescription": "We transformed Habib Mall's entire sales operation from traditional phone-based ordering into a sophisticated e-commerce ecosystem. The platform integrates 50+ independent shops, provides real-time inventory management, multi-payment options, and a powerful admin dashboard for operations management.",
+    "challenge": "The mall relied on direct communication and in-store shopping, resulting in lost sales opportunities and difficulty for customers to browse products from home. There was no digital presence despite the market shifting strongly toward online shopping.",
+    "solution": "We built a complete e-commerce platform that displays all products with filtering by price, color, size, and type. Implemented a smooth checkout process, real-time inventory tracking, and a comprehensive dashboard for managing orders, products, and analytics across all shops.",
+    "impact": "+300% Sales Growth",
+    "metrics": [
+      { "label": "Sales Growth", "value": "300%" },
+      { "label": "Processing Time Reduction", "value": "85%" },
+      { "label": "Customer Reach Expansion", "value": "10x" },
+      { "label": "Operational Efficiency", "value": "+150%" }
+    ],
+    "technologies": ["React", "Node.js", "PostgreSQL", "Stripe", "AWS"],
+    "deployment": "https://your-portfolio-link-1.vercel.app",
+    "image": "📦",
+    "year": "2024",
+    "clientTestimonial": {
+      "quote": "They transformed our outdated system into a cutting-edge platform. Within months, we saw a 300% increase in sales and significantly reduced operational overhead. The professionalism and expertise are unmatched.",
+      "client": "Ahmed Al-Sudairy",
+      "role": "E-Commerce Platform Client"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Global Payment System",
+    "category": "FinTech",
+    "shortDescription": "Secure payment processing system handling millions of transactions across multiple currencies.",
+    "fullDescription": "Built a high-performance payment gateway supporting 150+ countries with multi-currency processing, fraud detection, and real-time settlement. Processes millions of transactions daily with 99.99% uptime.",
+    "challenge": "Existing payment systems were slow, unreliable, and couldn't scale for global transactions. High transaction failures and customer complaints about processing times.",
+    "solution": "Architected a distributed payment processing system with redundancy across multiple data centers. Implemented advanced fraud detection using machine learning, multi-currency support, and optimized routing for instant settlement.",
+    "impact": "99.99% Uptime",
+    "metrics": [
+      { "label": "Uptime", "value": "99.99%" },
+      { "label": "Transaction Speed", "value": "<200ms" },
+      { "label": "Countries Supported", "value": "150+" },
+      { "label": "Daily Volume", "value": "10M+" }
+    ],
+    "technologies": ["Node.js", "Go", "Kubernetes", "PostgreSQL", "Redis"],
+    "deployment": "https://your-portfolio-link-2.vercel.app",
+    "image": "💳",
+    "year": "2024",
+    "clientTestimonial": null
+  },
+  {
+    "id": 3,
+    "title": "Analytics Dashboard",
+    "category": "Data Intelligence",
+    "shortDescription": "Real-time analytics platform processing terabytes of data with interactive visualizations.",
+    "fullDescription": "A comprehensive analytics platform that aggregates data from multiple sources, provides real-time insights, and powers business intelligence for enterprise clients.",
+    "challenge": "Manual data reporting was time-consuming and delayed decision-making. No real-time visibility into key metrics.",
+    "solution": "Built a distributed data pipeline processing millions of events daily. Created interactive dashboards with custom visualizations, real-time alerts, and predictive analytics capabilities.",
+    "impact": "10M+ Events/Day",
+    "metrics": [
+      { "label": "Events Processed", "value": "10M+/day" },
+      { "label": "Data Storage", "value": "50TB+" },
+      { "label": "Query Speed", "value": "<1s" },
+      { "label": "Users", "value": "500+" }
+    ],
+    "technologies": ["React", "Python", "Kafka", "ClickHouse", "ElasticSearch"],
+    "deployment": "https://your-portfolio-link-3.vercel.app",
+    "image": "📈",
+    "year": "2023",
+    "clientTestimonial": null
+  },
+  {
+    "id": 4,
+    "title": "Mobile App Platform",
+    "category": "Mobile Development",
+    "shortDescription": "Cross-platform mobile solution with 5M+ downloads and 4.8-star rating.",
+    "fullDescription": "Built a high-performance mobile application available on iOS and Android, supporting millions of active users with offline functionality and real-time synchronization.",
+    "challenge": "Fragmented user experience across platforms, poor performance, and high crash rates.",
+    "solution": "Implemented cross-platform development with React Native, optimized performance, integrated robust backend systems, and established comprehensive testing and monitoring.",
+    "impact": "5M+ Downloads",
+    "metrics": [
+      { "label": "Downloads", "value": "5M+" },
+      { "label": "Rating", "value": "4.8★" },
+      { "label": "Active Users", "value": "2M+" },
+      { "label": "Crash Rate", "value": "<0.1%" }
+    ],
+    "technologies": ["React Native", "TypeScript", "Firebase", "Redux"],
+    "deployment": "https://your-portfolio-link-4.vercel.app",
+    "image": "📱",
+    "year": "2023",
+    "clientTestimonial": null
+  }
+]

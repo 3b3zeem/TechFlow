@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Your Name",
+    "role": "Founder & Lead Engineer",
+    "bio": "With 10+ years of experience in enterprise architecture and product development, leading the vision of transforming businesses through technology.",
+    "experience": [
+      "Architected systems serving 100M+ users",
+      "Led engineering teams at Google and Facebook scale companies",
+      "Expert in scalable backend systems and infrastructure",
+      "Published speaker at international tech conferences"
+    ],
+    "expertise": ["Architecture", "Backend", "DevOps", "Team Leadership", "System Design"],
+    "avatar": "👨‍💻",
+    "portfolioLink": "https://portfolio-link-1.vercel.app",
+    "track": [
+      "Led complete technical overhaul for Habib Mall",
+      "Designed payment system handling 10M+ daily transactions",
+      "Mentored 20+ engineers across multiple projects"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Muhammad",
+    "role": "Full Stack Developer",
+    "bio": "Specializing in modern web technologies and creating seamless user experiences across web and mobile platforms.",
+    "experience": [
+      "Built 20+ production applications",
+      "Expert in React, Node.js, and mobile development",
+      "Passionate about performance optimization and UX",
+      "Contributed to open-source projects"
+    ],
+    "expertise": ["React", "Node.js", "Mobile Dev", "UI/UX", "Performance Optimization"],
+    "avatar": "👨‍💻",
+    "portfolioLink": "https://portfolio-link-2.vercel.app",
+    "track": [
+      "Frontend architecture for Habib Mall e-commerce",
+      "Built dashboard with 500+ concurrent users",
+      "Reduced bundle size by 60% through optimization"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Team Member",
+    "role": "Product Engineer",
+    "bio": "Focused on translating business requirements into elegant technical solutions with emphasis on user experience.",
+    "experience": [
+      "Led product development for SaaS platforms",
+      "Database optimization specialist",
+      "API design and REST architecture expert",
+      "Passionate about scalable system design"
+    ],
+    "expertise": ["Database Design", "API Architecture", "Product Thinking", "Testing", "SQL Optimization"],
+    "avatar": "👨‍💻",
+    "portfolioLink": "https://portfolio-link-3.vercel.app",
+    "track": [
+      "Designed database schema for Habib Mall handling 100K+ daily orders",
+      "Optimized queries reducing response time by 75%",
+      "Led API standardization across all projects"
+    ]
+  }
+]
