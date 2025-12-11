@@ -25,7 +25,6 @@ export default function Hero() {
               >
                 Get Started
               </button>
-              <button className="btn-secondary">Learn More</button>
             </div>
           </div>
           <div className="space-y-4">

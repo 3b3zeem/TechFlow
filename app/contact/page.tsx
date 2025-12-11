@@ -83,17 +83,17 @@ export default function Contact() {
           <div className="mt-16 grid md:grid-cols-3 gap-8">
             <div>
               <h3 className="font-semibold mb-2">Email</h3>
-              <a href="mailto:hello@techflow.com" className="text-primary hover:underline">
-                hello@techflow.com
+              <a href="mailto:moustafadabahh@gmail.com" className="text-primary hover:underline">
+                moustafadabahh@gmail.com
               </a>
             </div>
             <div>
               <h3 className="font-semibold mb-2">Phone</h3>
-              <a href="tel:+15551234567" className="text-primary hover:underline">
-                +1 (555) 123-4567
+              <a href="tel:+201099560690" className="text-primary hover:underline">
+                +20 109 956 0690
               </a>
             </div>
-            <div>
+            {/* <div>
               <h3 className="font-semibold mb-2">Follow Us</h3>
               <div className="flex gap-4">
                 <a href="#" className="text-primary hover:underline">
@@ -106,7 +106,7 @@ export default function Contact() {
                   GitHub
                 </a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>

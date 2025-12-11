@@ -37,25 +37,27 @@ export default function Footer() {
                   About
                 </a>
               </li>
-              <li>
-                <a href="#" className="hover:text-foreground">
-                  Blog
-                </a>
-              </li>
-              <li>
-                <a href="#" className="hover:text-foreground">
-                  Careers
-                </a>
-              </li>
             </ul>
           </div>
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li>
-                <a href="mailto:hello@techflow.com">hello@techflow.com</a>
+                <a
+                  href="mailto:moustafadabahh@gmail.com"
+                  className="hover:text-foreground hover:underline"
+                >
+                  moustafadabahh@gmail.com
+                </a>
               </li>
-              <li>+1 (555) 123-4567</li>
+              <li>
+                <a
+                  href="tel:+201099560690"
+                  className="hover:text-foreground hover:underline"
+                >
+                  +20 109 956 0690
+                </a>
+              </li>
             </ul>
           </div>
         </div>
@@ -64,5 +66,5 @@ export default function Footer() {
         </div>
       </div>
     </footer>
-  )
+  );
 }

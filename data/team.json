@@ -1,62 +1,95 @@
 [
   {
     "id": 1,
-    "name": "Your Name",
+    "name": "Moustafa Abdo",
     "role": "Founder & Lead Engineer",
     "bio": "With 10+ years of experience in enterprise architecture and product development, leading the vision of transforming businesses through technology.",
     "experience": [
-      "Architected systems serving 100M+ users",
-      "Led engineering teams at Google and Facebook scale companies",
-      "Expert in scalable backend systems and infrastructure",
-      "Published speaker at international tech conferences"
+      "Designed and built end-to-end systems and enterprise-level platforms for startups and large-scale companies",
+      "Collaborated with and integrated solutions for major global platforms such as Google/YouTube, Facebook, Twitter, Carrefour, and Quora",
+      "Diagnosed and resolved complex real-world technical and business challenges through structured analysis and responsible reporting",
+      "Delivered consistent, high-quality work across projects of varying size, scope, and complexity"
     ],
-    "expertise": ["Architecture", "Backend", "DevOps", "Team Leadership", "System Design"],
+    "expertise": [
+      "Architecture",
+      "DevOps",
+      "Front-end: HTML, CSS, JavaScript, React",
+      "Back-end: PHP, .NET",
+      "Web & Network Penetration Testing, OWASP Top 10",
+      "Team Leadership",
+      "System Design"
+    ],
     "avatar": "👨‍💻",
-    "portfolioLink": "https://portfolio-link-1.vercel.app",
+    "portfolioLink": "https://ahmedmostafadev.vercel.app/",
     "track": [
-      "Led complete technical overhaul for Habib Mall",
-      "Designed payment system handling 10M+ daily transactions",
-      "Mentored 20+ engineers across multiple projects"
+      "Led enterprise-level architecture and guided companies through digital transformation",
+      "Designed and built full-scale, high-performance platforms for startups and large enterprises",
+      "Integrated systems with major global platforms such as Google/YouTube, Facebook, Twitter, Carrefour, and Quora",
+      "Provided secure, scalable solutions with strong focus on DevOps, system design, and penetration testing",
+      "Solved real-world business and technical challenges through analytical thinking and responsible reporting",
+      "Successfully led engineering teams and ensured high-quality delivery across all project sizes"
     ]
   },
   {
     "id": 2,
-    "name": "Muhammad",
+    "name": "Mohamed Ayman",
     "role": "Full Stack Developer",
-    "bio": "Specializing in modern web technologies and creating seamless user experiences across web and mobile platforms.",
+    "bio": "Specializing in modern web technologies and creating seamless user experiences across web and mobile platforms. Expert in React, Node.js, and scaling applications.",
     "experience": [
       "Built 20+ production applications",
       "Expert in React, Node.js, and mobile development",
       "Passionate about performance optimization and UX",
       "Contributed to open-source projects"
     ],
-    "expertise": ["React", "Node.js", "Mobile Dev", "UI/UX", "Performance Optimization"],
+    "expertise": ["React", "Node.js", "NestJS", "Angular", "UI/UX"],
     "avatar": "👨‍💻",
-    "portfolioLink": "https://portfolio-link-2.vercel.app",
+    "portfolioLink": "https://www.mohamedayman.dev/",
     "track": [
-      "Frontend architecture for Habib Mall e-commerce",
-      "Built dashboard with 500+ concurrent users",
-      "Reduced bundle size by 60% through optimization"
+      "Developed Facelog social media platform",
+      "Built Safebites e-commerce solution",
+      "Travel booking platform architecture"
     ]
   },
   {
     "id": 3,
-    "name": "Team Member",
-    "role": "Product Engineer",
-    "bio": "Focused on translating business requirements into elegant technical solutions with emphasis on user experience.",
+    "name": "Ahmed Mostafa",
+    "role": "Front End Developer",
+    "bio": "Dedicated Front End Developer with a strong commitment to continuous learning. Advanced my skills through the MEARN scholarship at ITI. With over a year of front-end experience, I specialize in building dynamic, responsive, and scalable web applications using MongoDB, Express.js, React, and Node.js. I focus on delivering custom, high-performance solutions with intuitive UI, seamless API integration, optimized code, and ongoing support—all tailored to your project’s needs.",
     "experience": [
-      "Led product development for SaaS platforms",
-      "Database optimization specialist",
-      "API design and REST architecture expert",
-      "Passionate about scalable system design"
+      "Built various systems and full-scale platforms for both large and small companies",
+      "Worked with major global platforms (Google/YouTube, Facebook, Twitter, Carrefour, Quora)",
+      "Identified and helped resolve real-world issues through responsible reporting",
+      "High-quality work regardless of project size"
     ],
-    "expertise": ["Database Design", "API Architecture", "Product Thinking", "Testing", "SQL Optimization"],
+    "expertise": [
+      "Front End Development",
+      "React",
+      "Next.js",
+      "Angular",
+      "UI/UX"
+    ],
     "avatar": "👨‍💻",
-    "portfolioLink": "https://portfolio-link-3.vercel.app",
+    "portfolioLink": "https://ahmedmostafadev.vercel.app/",
     "track": [
-      "Designed database schema for Habib Mall handling 100K+ daily orders",
-      "Optimized queries reducing response time by 75%",
-      "Led API standardization across all projects"
+      "Built various systems and full-scale platforms for both large and small companies",
+      "Worked with major global platforms (Google/YouTube, Facebook, Twitter, Carrefour, Quora)",
+      "Identified and helped resolve real-world issues through responsible reporting"
     ]
+  },
+  {
+    "id": 4,
+    "name": "Join Our Team",
+    "role": "Future Colleague",
+    "bio": "We are always looking for talented individuals to join our high-performance team. If you are passionate about technology and solving real-world problems, we want to hear from you.",
+    "experience": [
+      "Passionate about code",
+      "Eager to learn and grow",
+      "Team player",
+      "Problem solver"
+    ],
+    "expertise": ["Your Skills Here"],
+    "avatar": "🚀",
+    "portfolioLink": "/contact",
+    "track": []
   }
 ]
